@@ -1,0 +1,30 @@
+AV 11 9 Madrid L 
+AV 7 6 Miami L 
+AC 1944 10 Toronto L
+AV 265 5 Cancún L
+AA 915 6 Miami L
+P5 7011 2 Caracas L
+UA 1068 8 Newark L
+NK 1921 6 Orlando L
+AM 708 5 Ciudad de México L
+AV 121 11 Londres L
+LH 543 13 Frankfurt S
+DL 980 7 Atlanta S
+AV 18 9 Barcelona S
+AV 692 3 San José S
+AV 20 8 Nueva York S
+AV 87 9 Buenos Aires S
+UX 194 9 Madrid S
+AV 85 5 Sao Paulo S
+AV 261 5 Rio de Janeiro S
+IB 6585 9 Madrid L
+CM 517 1 Ciudad de Panamá L
+P5 7009 1 Caracas L
+AV 37 6 Fort Lauderdale L
+AV 211 8 Nueva York L
+LA 4372 2 Aruba S
+KM 741 11 Amsterdam S
+EQ 527 2 Quito S
+AF 429 10 Paris S
+TK 800 15 Estambul L
+NK 807 6 Fort Lauderdale L

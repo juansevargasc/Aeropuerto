@@ -1,0 +1,20 @@
+Bogota
+AA American Airlines
+AC Air Canada
+AF Air France
+AM AeroMéxico
+AV Avianca
+B6 JetBlue
+CM Copa Airlines
+DL Delta
+EQ Tame
+KM KLM
+IB Iberia
+LA Latam
+LH Lufthansa
+NK Spirit
+P5 Wingo
+TK Turkish Airlines
+UA United Airlines
+UX AirEuropa
+9V Avior
